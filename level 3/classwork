@@ -2,4 +2,3 @@ int1=10
 int2=2
 print(int1*int2)
 print(int1/int2)
-display("level up!")

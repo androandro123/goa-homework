@@ -1,0 +1,27 @@
+#hi and welcome to python,this is place for coding. let's start with print() this shows everything that you write inside() on screen
+#if you write words then they will need "" but numbers don't need that
+print("hello world")
+# integer=int. integer is full number
+# float=flo. float is number but not full
+# string=str string is word or number you write and computer thinks they are just random ABC
+int1=200
+int2=100 
+print(int1+int2) #here int1 plusses int2 normally
+print(int1*int2) #here int1 times int2 is done
+print(int1-int2) #here int1 minusses int2 normally again
+print(int1/int2) #here int1 divides with int2 and again normally
+# those are int's,now it is time tolearn string
+str1=300
+str2=50
+print(str1+str2) #here it is different,here instead of plussing,strings just glue thogether
+#string can't be minussed,timed or divided, since it can only glue thogether
+#float is pretty much same as integer, but it is not full number
+flo1=400.5
+flo2=300.5
+#float can be timed,divided,plussed and minussed just as integer
+#you can turn integer to string like this: print(str(int)). you can also plus them
+print(str(int1)+str(int2))
+#you can also turn integer to float like integer to string but it just adds .0 to number
+#press play button at up and right on screen to see everything.(this play button looks like youtube icon)
+#this was all about print(),integer,float,string.i hope you liked this lesson,see you next time!
+#                                                                                                from andria khorava
