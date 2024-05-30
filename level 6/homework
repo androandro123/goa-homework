@@ -1,0 +1,13 @@
+name = "data" #es arsi tqveni saxeli
+surname = "diasamidze" #es tqveni gvari
+age = 100 #es ki weli
+text = "I am programmer" #es aris textin rom tqven xart programeri
+
+print("My name is" + " " + name + " " + "my surname is" + " " + surname + " " + "my age is" + " " + str(age) + " " + text)#aq wert
+#My name is data my surname is diasamidze my age is 100 I am programmer
+#axla me vaketeb asetnairs ogond chemze
+name = "andria"
+surname = "khorava"
+age = 11
+text = "I am studying programming at GOA"
+print("My name is" + " " + name + " " + "my surname is" + " " + surname + " " + "my age is" + " " + str(age) + " " + text)
