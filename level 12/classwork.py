@@ -1,0 +1,6 @@
+print("hi,create your account!")
+name=input("what is your name?")
+last_name=input("what is your last_name?")
+gmail=input("what is your gmail?")
+password=input("finnaly,set your password")
+print("your name is " + name + ",your last name is " + last_name + ",your gmail is " + gmail + ",your password is " + password +".")
